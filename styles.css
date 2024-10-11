@@ -1,0 +1,12 @@
+.fett {
+    color: aqua;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    background-color: crimson;
+    color: blue;
+    text-align: center;
+    padding: 0lh;
+}
